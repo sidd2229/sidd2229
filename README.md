@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddharth
-- 👀 I’m interested in coding
+- 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently pursuing Computer Science Engineering(CSE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
