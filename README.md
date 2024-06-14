@@ -4,18 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Siddharth+Rai!;" />
 </h1>
 
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h2 align="center">A passionate frontend and backend developer from India</h2>
 
 <br/>
 
-<div align="center">
+<img align="right" width ="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/><br/>
+
+
+
+
+<div align="left" display="">
  
  🔭 I’m currently Student of **VIT Chennai**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **ReactNative, Azure, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/sidd2229/sidd2229/issues)**
-
+<br/><br/><br/><br/><br/>
  </div>
 
  <div align="center"> 
@@ -33,6 +38,7 @@
 <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidd2229" alt="sidd2229" /></a> </p>
 <hr/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -48,11 +54,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd2229&show_icons=true&locale=en&layout=compact" alt="sidd2229" /></p>
 
 <p>&nbsp;
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sidd2229&show_icons=true&locale=en" alt="sidd2229" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sidd2229&show_icons=true&locale=en" alt="sidd2229" /></p>
 
-<br/>
-<br/>
-<br/><br/><br/><br/><br/><br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd2229&" alt="sidd2229" /></p>
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -64,6 +72,10 @@
 
 
  <img alt="Ending here" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+
+
 
 
 
