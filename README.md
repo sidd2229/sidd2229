@@ -42,6 +42,16 @@
 <br/>
 <hr/>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd2229&show_icons=true&locale=en&layout=compact" alt="sidd2229" /></p>
+
+<p>&nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sidd2229&show_icons=true&locale=en" alt="sidd2229" /></p>
+
+<br/>
+<br/>
+<br/><br/><br/><br/><br/><br/>
+<hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -51,5 +61,9 @@
 </div>
 
 <hr/>
+
+
+
+
 
 
